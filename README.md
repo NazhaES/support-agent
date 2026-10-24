@@ -36,6 +36,14 @@ instead of guessing.
 
 ![LangSmith thread](docs/langsmith-thread-trace.png)
 
+**Evaluation**: DeepEval results on 10 test questions. Answers are correct, grounded in the documents, and follow the security and escalation rules.
+
+![DeepEval results](docs/deepeval-results.png)
+
+**RAGAS results** on the same questions: retrieval finds every needed document (context precision and recall 1.00). RAGAS faithfulness is stricter than DeepEval's and also counts details not stated in the documents.
+
+![RAGAS results](docs/ragas-results.png)
+
 ## How it works
 
 ```
