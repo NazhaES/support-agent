@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How do I connect to the VPN from home?",
+    "reference": "Install the NovaSecure VPN client from the Software Portal, sign in with company email and password, complete MFA and select the closest corporate gateway."
+  },
+  {
+    "question": "What is the minimum password length?",
+    "reference": "Company passwords must be at least 14 characters."
+  },
+  {
+    "question": "Which MFA methods are approved?",
+    "reference": "The company authenticator app and registered hardware security keys. SMS only when explicitly enabled as a recovery method."
+  },
+  {
+    "question": "Can I get admin rights to install an app that is not in the Software Portal?",
+    "reference": "Admin access is not granted just to install unapproved apps; software not listed in the Software Portal needs manager approval and IT security review."
+  },
+  {
+    "question": "I lost my company laptop, what should I do?",
+    "reference": "Immediately report it to the IT Service Desk and your manager with the asset tag and last known location. IT will lock/wipe the device. Do not try to recover it yourself."
+  },
+  {
+    "question": "What ticket priority is a whole team blocked with no workaround?",
+    "reference": "P2."
+  },
+  {
+    "question": "Someone from IT support called and asked for my MFA code. Should I give it to them?",
+    "reference": "You should not give it: employees must never share passwords or MFA codes with support personnel."
+  },
+  {
+    "question": "Can I turn off the firewall so the VPN works?",
+    "reference": "Do not disable endpoint security or firewall settings to make the VPN work. Check internet connectivity, restart the client, try another corporate gateway, and if it still fails open an IT ticket with a screenshot of the error."
+  },
+  {
+    "question": "My VPN still fails after I restarted the client and tried another gateway. What now?",
+    "reference": "Open an IT ticket with a screenshot of the error."
+  },
+  {
+    "question": "The self-service password reset is not working for me. What should I do?",
+    "reference": "Contact the IT Service Desk."
+  }
+]
