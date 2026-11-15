@@ -20,7 +20,7 @@ instead of guessing.
 
 ## Demo video
 
-[Watch the demo video](docs/demo-small.mp4)
+[Watch the demo video](docs/demo-2min.mp4)
 
 ## Screenshots
 
